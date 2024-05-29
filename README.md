@@ -1,36 +1,82 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Cindy Kandie's Portfolio
+
+This project is a personal portfolio website for Cindy Kandie, a front-end developer and artist. It showcases her work, skills, and provides links to her social media profiles.
+
+## ScreenShot
+![Social Links](./public/slinks-screenshot.png)
+
+## Features
+
+- Introduction and profile image
+- Links to GitHub, LinkedIn, Twitter, and Instagram
+- Built with Next.js for modern web development
+
+## Technologies Used
+
+- Next.js
+- React
+- CSS
 
 ## Getting Started
 
-First, run the development server:
+### Prerequisites
+
+Make sure you have the following installed:
+
+- Node.js
+- npm or yarn
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/cindykandie/social-links-cindyk
+   cd cindy-kandie-portfolio
+   ```
+
+2. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+   or
+
+   ```bash
+   yarn install
+   ```
+
+### Running the Development Server
+
+Start the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+or
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+```bash
+yarn dev
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Open [http://localhost:3000](http://localhost:3000) in your browser to see the website.
 
-## Learn More
+## Deployment
 
-To learn more about Next.js, take a look at the following resources:
+To deploy the project, follow the instructions for your chosen hosting provider. For example, you can deploy it to Vercel by connecting your GitHub repository to Vercel and following their deployment steps.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Contributing
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+If you have suggestions or improvements, feel free to submit a pull request or open an issue.
 
-## Deploy on Vercel
+## License
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+This project is licensed under the MIT License.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Contact
+
+You can reach Cindy Kandie via her [LinkedIn](https://www.linkedin.com/in/cindykandie) or [Twitter](https://twitter.com/cindy_kandie).
+
+```
